@@ -1,5 +1,5 @@
 import unittest
-from bst_assignment import BinarySearchTree
+from BST import BinarySearchTree
 
 class TestBinarySearchTree(unittest.TestCase):
 
